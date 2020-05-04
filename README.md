@@ -9,11 +9,11 @@ The project aims to show the areas in the world that are at risks concenrning th
 ![Image description](Window.png)
 
 If you want to use this project, here are the steps needed to make it run:
-  1 - Download the zip file "DATA_SEISMIC_RISKS.zip" and store it.
-  2 - Download the "Code_File" and open it with Jupyter Notebook from the ArcGIS folder.
-  3 - Open ArcGIS Pro and create a new project. 
-  4 - Read the instructions on the code file in order to see what to run first.
-  5 - Once you have ran the code properly, a window to enter the coefficients will appear. Complete it and close it, the program will continue. 
+  - Download the zip file "DATA_SEISMIC_RISKS.zip" and store it.
+  - Download the "Code_File" and open it with Jupyter Notebook from the ArcGIS folder.
+  - Open ArcGIS Pro and create a new project. 
+  - Read the instructions on the code file in order to see what to run first.
+  - Once you have ran the code properly, a window to enter the coefficients will appear. Complete it and close it, the program will continue. 
   6 - Once the program is finished, update the files of the project in ArcGIS Pro and select the results that you need. 
   7 - You can start as many simulations with different parameters as you want !
 
