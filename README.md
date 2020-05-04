@@ -14,8 +14,8 @@ If you want to use this project, here are the steps needed to make it run:
   - Open ArcGIS Pro and create a new project. 
   - Read the instructions on the code file in order to see what to run first.
   - Once you have ran the code properly, a window to enter the coefficients will appear. Complete it and close it, the program will continue. 
-  6 - Once the program is finished, update the files of the project in ArcGIS Pro and select the results that you need. 
-  7 - You can start as many simulations with different parameters as you want !
+  - Once the program is finished, update the files of the project in ArcGIS Pro and select the results that you need. 
+  - You can start as many simulations with different parameters as you want !
 
 If an error appears or something doesn't work properly, feel free to contact us by email, we will answer as soon as possible:
   - marc.schwindenhammer@epfedu.fr
