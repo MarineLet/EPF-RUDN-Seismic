@@ -18,6 +18,9 @@ If you want to use this project, here are the steps needed to make it run:
   - Once you have ran the code properly, a window to enter the coefficients will appear. Complete it and close it, the program will continue. 
   - Once the program is finished, update the files of the project in ArcGIS Pro and select the results that you need. 
   - You can start as many simulations with different parameters as you want !
+![Image description](Coeff_Example.png)
+
+For an indication of the coefficients to put in the window, here is an example :
 
 If an error appears or something doesn't work properly, feel free to contact us by email, we will answer as soon as possible:
   - marc.schwindenhammer@epfedu.fr
